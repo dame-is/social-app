@@ -39,6 +39,8 @@ export default defineConfig(
       '*.e2e.tsx',
       'eslint.config.mjs',
       'webpack.config.js',
+      'babel.config.js',
+      'metro.config.js',
       '.jscodeshift/**',
     ],
   },
